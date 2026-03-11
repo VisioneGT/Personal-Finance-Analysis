@@ -1,0 +1,71 @@
+date,type,description,category,amount,notes
+2024-01-25,Income,Salary,Salary,28000,Monthly salary
+2024-01-28,Income,Freelance,Side Income,3500,Web design project
+2024-01-01,Expense,Rent,Housing,8500,Monthly rent
+2024-01-02,Expense,Electricity,Utilities,850,
+2024-01-02,Expense,Water,Utilities,220,
+2024-01-03,Expense,Groceries,Food,2100,
+2024-01-05,Expense,Transport,Transport,1200,Fuel and taxi
+2024-01-07,Expense,Netflix,Subscriptions,199,
+2024-01-07,Expense,Spotify,Subscriptions,99,
+2024-01-08,Expense,Gym,Health,450,
+2024-01-10,Expense,Restaurant,Food,680,Dinner with friends
+2024-01-12,Expense,Clothing,Clothing,1200,Work clothes
+2024-01-14,Expense,Groceries,Food,1850,
+2024-01-15,Expense,Airtime and Data,Utilities,350,
+2024-01-17,Expense,Entertainment,Entertainment,550,Movies and outing
+2024-01-19,Expense,Medical Aid,Health,1200,
+2024-01-20,Expense,Car Insurance,Insurance,780,
+2024-01-21,Expense,Takeaways,Food,420,
+2024-01-22,Expense,Transport,Transport,380,
+2024-01-25,Expense,Savings,Savings,2000,Monthly savings
+2024-01-26,Expense,Groceries,Food,1600,
+2024-01-28,Expense,Entertainment,Entertainment,300,
+2024-01-30,Expense,Personal Care,Personal,480,Haircut and toiletries
+2024-02-25,Income,Salary,Salary,28000,Monthly salary
+2024-02-10,Income,Freelance,Side Income,5200,Logo design and website
+2024-02-01,Expense,Rent,Housing,8500,Monthly rent
+2024-02-02,Expense,Electricity,Utilities,920,Higher due to heat
+2024-02-02,Expense,Water,Utilities,230,
+2024-02-03,Expense,Groceries,Food,2300,
+2024-02-05,Expense,Transport,Transport,1350,
+2024-02-07,Expense,Netflix,Subscriptions,199,
+2024-02-07,Expense,Spotify,Subscriptions,99,
+2024-02-08,Expense,Gym,Health,450,
+2024-02-10,Expense,Valentines Dinner,Entertainment,1200,Valentines dinner
+2024-02-12,Expense,Groceries,Food,1950,
+2024-02-14,Expense,Restaurant,Food,850,Valentines Day
+2024-02-15,Expense,Airtime and Data,Utilities,350,
+2024-02-17,Expense,Clothing,Clothing,2800,Overspent on shoes
+2024-02-19,Expense,Medical Aid,Health,1200,
+2024-02-20,Expense,Car Insurance,Insurance,780,
+2024-02-21,Expense,Takeaways,Food,680,Ordered more than usual
+2024-02-22,Expense,Transport,Transport,420,
+2024-02-24,Expense,Entertainment,Entertainment,750,Concert tickets
+2024-02-25,Expense,Savings,Savings,1500,Reduced due to overspend
+2024-02-26,Expense,Groceries,Food,1700,
+2024-02-28,Expense,Personal Care,Personal,520,
+2024-03-25,Income,Salary,Salary,28000,Monthly salary
+2024-03-15,Income,Freelance,Side Income,2800,Small project
+2024-03-01,Expense,Rent,Housing,8500,Monthly rent
+2024-03-02,Expense,Electricity,Utilities,780,
+2024-03-02,Expense,Water,Utilities,210,
+2024-03-03,Expense,Groceries,Food,1950,More disciplined
+2024-03-05,Expense,Transport,Transport,1100,
+2024-03-07,Expense,Netflix,Subscriptions,199,
+2024-03-07,Expense,Spotify,Subscriptions,99,
+2024-03-08,Expense,Gym,Health,450,
+2024-03-10,Expense,Groceries,Food,1800,
+2024-03-12,Expense,Restaurant,Food,450,Less dining out
+2024-03-14,Expense,Easter Shopping,Food,980,Easter weekend
+2024-03-15,Expense,Airtime and Data,Utilities,350,
+2024-03-17,Expense,Entertainment,Entertainment,400,
+2024-03-19,Expense,Medical Aid,Health,1200,
+2024-03-20,Expense,Car Insurance,Insurance,780,
+2024-03-21,Expense,Takeaways,Food,320,
+2024-03-22,Expense,Transport,Transport,290,
+2024-03-24,Expense,Clothing,Clothing,650,
+2024-03-25,Expense,Savings,Savings,3000,Back on track
+2024-03-26,Expense,Groceries,Food,1500,
+2024-03-28,Expense,Personal Care,Personal,460,
+2024-03-30,Expense,Emergency Fund,Savings,500,Extra contribution
